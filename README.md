@@ -1,3 +1,3 @@
 # Dice-Game
 
-Dice game is kind off similar to ludo.
+Dice game is a game which is kind off similar to ludo. It has 4 colors and a dice is rolled everytime.
