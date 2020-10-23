@@ -6,7 +6,7 @@ var randomDiceImage2 = "images/dice" + randomNumber2 + ".png";
 document.querySelectorAll("img")[1].setAttribute("src",randomDiceImage2);
 if(randomNumber1>randomNumber2)
 {
-  document.querySelector("h1").innerHTML="⛳ Player1 WINS!";
+  document.querySelector("h1").innerHTML="⛳ Player1 WINS The Game!";
 }
 else if(randomNumber1<randomNumber2)
 {
