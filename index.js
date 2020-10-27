@@ -17,3 +17,4 @@ else
   document.querySelector("h1").innerHTML="It's a DRAW! 😑";
 }
 console.log('Debugging the code');
+console.log('Debugging the code');
